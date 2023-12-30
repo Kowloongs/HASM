@@ -24,7 +24,7 @@
 */
 
 #ifdef HAVE_CONFIG_H
-	#include <config.h>
+    #include <config.h>
 #endif // End of HAVE_CONFIG_H
 
 /*
